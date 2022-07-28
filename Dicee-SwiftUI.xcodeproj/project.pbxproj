@@ -14,6 +14,9 @@
 		3F707A382892EEC700E48ECC /* Dicee_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F707A372892EEC700E48ECC /* Dicee_SwiftUITests.swift */; };
 		3F707A422892EEC700E48ECC /* Dicee_SwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F707A412892EEC700E48ECC /* Dicee_SwiftUIUITests.swift */; };
 		3F707A442892EEC700E48ECC /* Dicee_SwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F707A432892EEC700E48ECC /* Dicee_SwiftUIUITestsLaunchTests.swift */; };
+		3F707A512892F0F900E48ECC /* DiceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F707A502892F0F900E48ECC /* DiceView.swift */; };
+		3F707A522892F0F900E48ECC /* DiceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F707A502892F0F900E48ECC /* DiceView.swift */; };
+		3F707A532892F0F900E48ECC /* DiceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F707A502892F0F900E48ECC /* DiceView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +47,7 @@
 		3F707A3D2892EEC700E48ECC /* Dicee-SwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dicee-SwiftUIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F707A412892EEC700E48ECC /* Dicee_SwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dicee_SwiftUIUITests.swift; sourceTree = "<group>"; };
 		3F707A432892EEC700E48ECC /* Dicee_SwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dicee_SwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3F707A502892F0F900E48ECC /* DiceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,7 @@
 				3F707A282892EEC500E48ECC /* ContentView.swift */,
 				3F707A2A2892EEC700E48ECC /* Assets.xcassets */,
 				3F707A2C2892EEC700E48ECC /* Preview Content */,
+				3F707A502892F0F900E48ECC /* DiceView.swift */,
 			);
 			path = "Dicee-SwiftUI";
 			sourceTree = "<group>";
@@ -258,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F707A292892EEC500E48ECC /* ContentView.swift in Sources */,
+				3F707A512892F0F900E48ECC /* DiceView.swift in Sources */,
 				3F707A272892EEC500E48ECC /* Dicee_SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -267,6 +273,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F707A382892EEC700E48ECC /* Dicee_SwiftUITests.swift in Sources */,
+				3F707A522892F0F900E48ECC /* DiceView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +282,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F707A422892EEC700E48ECC /* Dicee_SwiftUIUITests.swift in Sources */,
+				3F707A532892F0F900E48ECC /* DiceView.swift in Sources */,
 				3F707A442892EEC700E48ECC /* Dicee_SwiftUIUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
